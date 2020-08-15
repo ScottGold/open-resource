@@ -1,0 +1,25 @@
+{
+  "name": "swapErc20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "swapTokenWithEther.js",
+  "directories": {
+    "test": "./"
+  },
+  "dependencies": {
+    "@binance-chain/javascript-sdk": "4.1.0",
+    "ethereumjs-tx": "2.1.2",
+    "sleep":"6.3.0",
+    "web3":"1.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },  
+  "author": "",
+  "license": "ISC"
+}
